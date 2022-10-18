@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Alice - New Chapter: Front-end Web Developer"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yeonwoo Alice Nam"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yeonwoo Alice Nam"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Hello World! Welcome to my journey to become a front-end web developer."
+  location         : "Seoul, South Korea & Vancouver, CA"
+  email            : "yeonwood93@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "yeonwood93@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
