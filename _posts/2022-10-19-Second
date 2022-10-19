@@ -1,0 +1,18 @@
+---
+title: "[CSS] Position: Relative, absolute and fixed"
+---
+## Understanding The Position Property in CSS
+### Why use Position?
+
+To create more complex layout for your website, we use the position property. Position allows you to place the HTML element wherever you want despite their order in HTML code.
+There are four types of value in the position. They are: 
+> **1.static 2. Sticky 3.relative 4.absolute 5.fixed **
+
+In this post, we are going to review the concepts, application, and examples of the later three values.
+
+### position: relative;
+
+**Relative** itself can't perform a positioning . You would need additional properties such as **top, right, bottom, left**
+
+
+
