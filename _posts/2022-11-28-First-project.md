@@ -42,6 +42,7 @@ Git Hub, Slack, Zoom, Notion, Git Book, TypeORM, Google Docs/Spread sheet/Presen
 **프론트엔드**:https://github.com/wecode-bootcamp-korea/39-1st-jojoclub-frontend   
 **백엔드**: https://github.com/wecode-bootcamp-korea/39-1st-jojoclub-backend   
 
+![결과물 gif](https://user-images.githubusercontent.com/114560119/204144737-7b11404b-7c2b-444e-b62f-bbfb207aff62.gif)
 
 
 
