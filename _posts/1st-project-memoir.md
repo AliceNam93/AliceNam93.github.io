@@ -1,3 +1,7 @@
+---
+title: "[1st Project - We Malone ] 회고록 "
+---
+
 # [1st Project - We Malone ] 회고록
 
 ## >WeCode 39기 1차 프로젝트
