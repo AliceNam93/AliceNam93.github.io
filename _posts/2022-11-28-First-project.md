@@ -1,4 +1,5 @@
 ---
+published: true
 title: "[1st Project - We Malone ] 회고록 "
 ---
 
