@@ -68,6 +68,8 @@ Git Hub, Slack, Zoom, Notion, Visual Studio, Google Docs/Spread sheet/Presentati
 1. 함수 컴포넌트 내에서 호출
 2. 최상위에서 호출
 
+**한줄 평**
+기술적인 부분은 아직 다루지 않아 특별히 배운점은 없지만 뭐든지 기초가 중요한 법.
 
 ## 잡담
 
