@@ -51,9 +51,11 @@ Git Hub, Slack, Zoom, Notion, Visual Studio, Google Docs/Spread sheet/Presentati
 
 **기초 문법**
 - class: 자바 프로그램의 단위. 자바 프로그램은 클래스들로 구성되어 있다.
-<이미지첨부>
+<img width="457" alt="클래스 기본 문법" src="https://user-images.githubusercontent.com/114560119/226354136-fdaa771c-7cec-4a1f-b461-e051844c7489.png">
+
 - main method: 자바 프로그램의 시작점. 자바는 이 메서드 없이 실행불가 하다.
-<이미지첨부>
+<img width="745" alt="메써드 기본 문법" src="https://user-images.githubusercontent.com/114560119/226354187-f81d1064-3e30-4b52-96f4-5db30f88a35a.png">
+
 
 **한줄 평**
 기술적인 부분은 아직 다루지 않아 특별히 배운점은 없지만 뭐든지 기초가 중요한 법.
