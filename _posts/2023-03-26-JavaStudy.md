@@ -1,6 +1,6 @@
 ---
 published: true
-title: "[JAVA를 자바라] 노트정리"
+title: "[JAVA를 자바라] 노트정리2"
 ---
 
 # [JAVA를 자바라] 2주차 ✏️
